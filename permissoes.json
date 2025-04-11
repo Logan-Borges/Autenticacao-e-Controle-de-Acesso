@@ -1,0 +1,13 @@
+{
+    "Alex": {"arquivo1": [
+      "ler"
+    ]},
+    "Logan": {"arquivo1": [
+      "ler"
+    ]},
+    "admin": {"arquivo1": [
+        "ler",
+        "escrever",
+        "apagar"
+    ]}
+}
