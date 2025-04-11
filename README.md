@@ -1,2 +1,2 @@
 # Autenticacao-e-Controle-de-Acesso
-Trabalho de Cybersegurança
+Trabalho de Segurança da Informação
