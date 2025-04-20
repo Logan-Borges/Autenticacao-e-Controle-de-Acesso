@@ -224,7 +224,7 @@ public class ControleAcesso {
             char[] senhaArray = console.readPassword();
             return new String(senhaArray);
         } else {
-            System.out.print("ATENÇÃO: Não foi possível ocultar a senha. Digite visivelmente: ");
+            System.out.print("ATENÇÃO: Não foi possível ocultar a senha devido a IDE. Digite visivelmente: ");
             return scanner.nextLine();
         }
     }
