@@ -1,8 +1,9 @@
 {
   "alex": {
-    "minecraftofilme.c": ["ler", "apagar"]
+    "arquivo1.txt": ["ler", "escrever"],
+    "arquivo2.txt": ["apagar"]
   },
   "logan": {
-    "minecraftofilme.c": ["escrever"]
+    "main.c": ["ler", "apagar"]
   }
 }

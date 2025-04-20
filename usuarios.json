@@ -1,10 +1,22 @@
 {
   "alex": {
-    "senha": "1234",
+    "senha": "AL9876!@",
     "tentativas": 0
   },
   "logan": {
-    "senha": "senha123",
+    "senha": "senh12M&",
+    "tentativas": 0
+  },
+  "felipe": {
+    "senha": "FE150#li",
+    "tentativas": 0
+  },
+  "leonardo": {
+    "senha": "Kz12985&",
+    "tentativas": 5
+  },
+  "lori": {
+    "senha": "Lo12367#",
     "tentativas": 0
   }
 }
