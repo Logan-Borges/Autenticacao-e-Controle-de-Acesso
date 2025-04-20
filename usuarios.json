@@ -1,0 +1,10 @@
+{
+  "pedro": {
+    "senha": "1234",
+    "tentativas": 0
+  },
+  "cleber": {
+    "senha": "senha123",
+    "tentativas": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "pedro": {
+    "main.c": ["ler", "apagar"]
+  },
+  "cleber": {
+    "main.c": ["escrever"]
+  }
+}
