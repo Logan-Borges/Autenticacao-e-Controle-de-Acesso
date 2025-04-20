@@ -149,8 +149,6 @@ public class ControleAcesso {
         };
     }
 
-    // JSON Helpers
-
     static Map<String, Usuario> lerUsuarios() {
         try (Reader reader = new FileReader(USUARIOS_FILE)) {
             Type type = new TypeToken<Map<String, Usuario>>() {}.getType();
@@ -194,7 +192,6 @@ public class ControleAcesso {
         }
     }
 
-    // Classes internas
     static class Usuario {
         String senha;
         int tentativas;
