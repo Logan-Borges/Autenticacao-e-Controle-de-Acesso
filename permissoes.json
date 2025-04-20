@@ -1,8 +1,10 @@
+// Dupla: Alex Narok Stavasz e Logan Ail Bernardes Borges
+
 {
-  "pedro": {
-    "main.c": ["ler", "apagar"]
+  "alex": {
+    "minecraftofilme.c": ["ler", "apagar"]
   },
-  "cleber": {
-    "main.c": ["escrever"]
+  "logan": {
+    "minecraftofilme.c": ["escrever"]
   }
 }

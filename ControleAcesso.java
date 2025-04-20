@@ -1,4 +1,4 @@
-// Alex Narok Stavasz e Logan Ail Bernardes Borges
+// Dupla: Alex Narok Stavasz e Logan Ail Bernardes Borges
 
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;

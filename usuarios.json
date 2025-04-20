@@ -1,9 +1,11 @@
+// Dupla: Alex Narok Stavasz e Logan Ail Bernardes Borges
+
 {
-  "pedro": {
+  "alex": {
     "senha": "1234",
     "tentativas": 0
   },
-  "cleber": {
+  "logan": {
     "senha": "senha123",
     "tentativas": 0
   }
